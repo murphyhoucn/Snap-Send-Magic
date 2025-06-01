@@ -1,9 +1,9 @@
-# CameraControl
+# Snap & Send Magic
 描述：调用摄像头拍照并通过邮件发送到指定邮箱
 
-[博客地址:“悄无声息”地获取你的照片](https://cosmicdusty.cc/post/%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E8%8E%B7%E5%8F%96%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87)
+[博客地址:“悄无声息”地获取你的照片](https://blog.cosmicdusty.cc/post/Ideas/GetYourPhotos/)
 
-[murphyhoucn/CameraControl](https://github.com/murphyhoucn/CameraControl)
+[murphyhoucn/Snap-Send-Magic](https://github.com/murphyhoucn/Snap-Send-Magic)
 
 # 使用
 
@@ -35,7 +35,7 @@ pyinstaller -F -w -i ICON.ico .\CameraControl.py
 
 # 学习
 
-`CameraControl.py`使用的算法在博客中有介绍：[博客地址：悄无声息获取你的照片](https://cosmicdusty.cc/post/%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E8%8E%B7%E5%8F%96%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87)
+`CameraControl.py`使用的算法在博客中有介绍：[博客地址：悄无声息获取你的照片](https://blog.cosmicdusty.cc/post/Ideas/GetYourPhotos/)
 
 # 交流
 
